@@ -1,0 +1,91 @@
+.App {
+  text-align: center;
+  font-family: monospace;
+  background-color: black;
+  color: white;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  /* padding-right: 70px; */
+}
+
+
+/* Paraggraph */
+
+.paragraph{
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.link{
+  text-align: left;
+  color: white;
+}
+
+
+
+
+
+/* Video Hero */
+.hero{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 20px;
+}
+
+.vid-card{
+  display: inline;
+}
+
+
+
+/* Image Card */
+.imageCard{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 20px;
+  width: auto;
+  height: auto;
+}
+.image{
+  height: 40vmin;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
