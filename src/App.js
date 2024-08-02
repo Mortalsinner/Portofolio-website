@@ -30,7 +30,8 @@ function App() {
       <a className="link" href='https://www.instagram.com/carlo.alghaniy/'>Instagram</a><br></br>
       <a className="link" href='https://www.instagram.com/mortalsinner._/'>Mortalsinner</a><br></br>
       <a className="link" href='https://www.behance.net/gallery/177383543/Cv-Portofolio-2023'>Behance</a><br></br>
-      <a className="link" href='https://www.artstation.com/themortalcarlo'>ArtStation</a>
+      <a className="link" href='https://www.artstation.com/themortalcarlo'>ArtStation</a><br></br>
+      <a className="link" href='https://github.com/Mortalsinner'>Github</a>
 
       <br></br>
       <br></br>
