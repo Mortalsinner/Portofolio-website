@@ -22,7 +22,7 @@ function App() {
       <video autoplay="autoplay" src={wireframe} type="video/mp4" className='hero'  height="200px" width="200px" loop muted/>
 
       {/* Paragraph */}
-      <p className='paragraph'> Carlo is a self taught visual artist and developer, working on a wide range of projects from indie musician to rave party label. Able to work in different style of art, and currently experimenting in different kind of medium. Carlo is also known as Mortalsinner.<br></br><br></br>
+      <p className='paragraph'> Carlo is a self-taught multimedia artist and coder, engaging in diverse projects from independent musician to rave party label. Proficient in various artistic styles and currently exploring multiple mediums, continually pushes creative boundaries. Carlo also goes by the alias VisionCrafter.<br></br><br></br>
       
       </p>
       
